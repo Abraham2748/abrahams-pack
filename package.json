@@ -29,5 +29,9 @@
     "usernamehw.errorlens",
     "vivaxy.vscode-conventional-commits",
     "vscode-icons-team.vscode-icons"
-  ]
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Abraham2748/abrahams-pack"
+  }
 }
