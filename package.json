@@ -2,7 +2,7 @@
   "name": "abrahams-pack",
   "displayName": "Abraham's Pack",
   "description": "My favorite extensions on vscode",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
     "vscode": "^1.91.0"
   },
@@ -34,5 +34,6 @@
     "type": "git",
     "url": "https://github.com/Abraham2748/abrahams-pack"
   },
-  "publisher": "Abraham2748"
+  "publisher": "Abraham2748",
+  "icon": "angular.png"
 }
