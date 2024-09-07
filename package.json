@@ -22,12 +22,10 @@
     "github.github-vscode-theme",
     "kisstkondoros.vscode-gutter-preview",
     "mguellsegarra.highlight-on-copy",
-    "ms-vscode-remote.remote-containers",
     "natqe.reload",
     "streetsidesoftware.code-spell-checker",
     "streetsidesoftware.code-spell-checker-spanish",
     "usernamehw.errorlens",
-    "vivaxy.vscode-conventional-commits",
     "vscode-icons-team.vscode-icons"
   ],
   "repository": {
