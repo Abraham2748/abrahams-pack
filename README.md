@@ -30,8 +30,6 @@ This pack includes the following extensions:
 - **Fold/Unfold All Icons** (`ferrierbenjamin.fold-unfold-all-icone`): Adds icons to fold/unfold all regions.
 - **Auto Close Tag** (`formulahendry.auto-close-tag`): Automatically add HTML/XML close tag.
 - **Auto Rename Tag** (`formulahendry.auto-rename-tag`): Auto rename paired HTML/XML tag.
-- **GitHub Copilot** (`github.copilot`): AI-powered code completion.
-- **GitHub Copilot Chat** (`github.copilot-chat`): Chat with GitHub Copilot.
 - **GitHub Theme** (`github.github-vscode-theme`): GitHub's VS Code themes.
 - **Gutter Preview** (`kisstkondoros.vscode-gutter-preview`): Preview images in the gutter.
 - **Highlight on Copy** (`mguellsegarra.highlight-on-copy`): Highlight text when copying.
