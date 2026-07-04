@@ -1,7 +1,7 @@
 {
   "name": "abrahams-pack",
   "displayName": "Abraham's Pack",
-  "description": "My favorite extensions on vscode",
+  "description": "My favorite extensions for Visual Studio Code",
   "version": "0.0.5",
   "engines": {
     "vscode": "^1.91.0"
