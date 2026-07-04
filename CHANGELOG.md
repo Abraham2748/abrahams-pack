@@ -6,6 +6,11 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 
 ## [Unreleased]
 
+### Removed
+
+- Removed GitHub Copilot extension.
+- Removed GitHub Copilot Chat extension.
+
 ### Added
 
 - Initial release of Abrahams Pack.
