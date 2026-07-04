@@ -15,6 +15,13 @@ truth for which extensions are included and at what version. Do not
 duplicate the extension list inline in this file or anywhere else — always
 read it live from `package.json`.
 
+## Local testing
+
+Press `F5` in VS Code to launch a new Extension Development Host window
+with this pack loaded, then open the Extensions view to confirm the listed
+extensions installed. Reload that window (`Ctrl+R` / `Cmd+R`) to pick up
+changes to `package.json` without relaunching.
+
 ## Release workflow
 
 Adding, removing, or updating an extension is a release. Follow these 4
